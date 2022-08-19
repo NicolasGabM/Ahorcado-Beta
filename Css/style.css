@@ -1,0 +1,26 @@
+#incognita{
+    top: 50%; 
+    height: 100%;
+    float: right;
+    margin-right: 500px;
+    margin-top: 15%;
+    position: relative;
+}
+#DisplayLetras{
+    top :1000%;
+    height: 100%;
+    float: right;
+    text-align: left;
+}
+#cuerpo{
+    background-color: #CCCCCC;
+   
+}
+#principio{
+    float: right;
+    margin-right: 50%;
+    top: 50%;
+   
+}#boton{
+    border-radius: 25px;
+}
